@@ -1,0 +1,26 @@
+.hide-craterlake1 {
+  display: none;
+}
+
+.hide-craterlake2 {
+  display: none;
+}
+
+
+.click1 {
+  cursor: pointer;
+  color: green;
+}
+
+.click2 {
+  cursor: pointer;
+  color: green;
+}
+
+.click1:hover {
+  text-decoration: underline;
+}
+
+.click2:hover {
+  text-decoration: underline;
+}
