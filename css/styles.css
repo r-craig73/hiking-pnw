@@ -23,4 +23,11 @@
 
 .click2:hover {
   text-decoration: underline;
+
+}
+
+.blackBkg{
+  background-color: grey;
+  color: white;
+
 }

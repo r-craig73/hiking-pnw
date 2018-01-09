@@ -9,3 +9,10 @@ $(document).ready(function() {
     $(".hide-craterlake2").fadeIn();
   });
 });
+
+$(document).ready(function() {
+  $("button#dark").click(function() {
+    $("body").addClass("blackBkg");
+  });
+
+});
