@@ -1,14 +1,21 @@
-# Hiking in the PNW website
+# Hiking in the PNW website 
+## version 1.01, 1/9/2018
 
-## Kaila & Ron version 1.01, 1/9/2018
+## GitHub repository: https://github.com/r-craig73/hiking-pnw
 
-### A site to practice jQuery effects
+#### By Ron Craig (https://github.com/r-craig73) & Kaila Goff (https://github.com/kailagoff)
 
-### links TBD
+## Description
+#### An Epicodus Intro to Programming lesson.
+#### A site to practice jQuery effects.
 
-### known bugs
-#### none as far as I know
+## Setup
+* Clone the repository
+* Open `index.html` in any web browser.
 
-### license MIT
+## Technologies Used
+* HTML, Javascript & jQuery
 
-### Copyright 2018, Kaila & Ron
+## MIT License
+
+#### Copyright (c) 2018 _Ron Craig & Kaila Goff_
