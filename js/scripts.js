@@ -12,7 +12,14 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $("button#dark").click(function() {
+    $("body").removeClass();
     $("body").addClass("blackBkg");
   });
+});
 
+$(document).ready(function() {
+  $("button#light").click(function() {
+    $("body").removeClass();
+    $("body").addClass("whiteBkg");
+  });
 });
